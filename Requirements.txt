@@ -1,0 +1,11 @@
+This is a project made by 11 Tin!
+
+Libs: 
+1. google_images_download (pip install git+https://github.com/Joeclinton1/google-images-download.git)
+2. PIL (pip install pillow)
+3. Pytube (pip install pytube)
+
+Note: 
+- If you cannot install any of these libs, try upgrade your PIP by using: pip install --upgrade
+- Also make sure that you've installed GIT. 
+- Thanks for using!
